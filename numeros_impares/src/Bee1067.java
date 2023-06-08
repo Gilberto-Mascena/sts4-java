@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Bee1067 {	
-	
+public class Bee1067 {
+
 	public static void main(String[] args) {
-		
+
 		Scanner sc = new Scanner(System.in);
-		
+
 		/*
 		 * Contador de números ímpares
 		 */
@@ -16,8 +16,7 @@ public class Bee1067 {
 				System.out.println(i);
 			}
 		}
-				
+
 		sc.close();
-		
 	}
 }

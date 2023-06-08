@@ -10,13 +10,10 @@ public class Main {
 		 * 
 		 * Estrutura repetitiva "faça-enquanto".
 		 * 
-		 * do {
-		 * 		comando 1
-		 *      comando 2
-		 * } while ( condição);
+		 * do { comando 1 comando 2 } while ( condição);
 		 * 
-		 * O bloco de comandos executa pelo menos uma vez, pois a condição é verificada no final.
-		 * Regra: verdadeiro volta, falso pula fora.
+		 * O bloco de comandos executa pelo menos uma vez, pois a condição é verificada
+		 * no final. Regra: verdadeiro volta, falso pula fora.
 		 */
 
 		Locale.setDefault(Locale.US);

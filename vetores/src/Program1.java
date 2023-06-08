@@ -12,8 +12,8 @@ public class Program1 {
 
 		String[] sv = new String[n];
 		sc.nextLine();
-		for (int i = 0; i < n; i++) {	
-			sv[i] = sc.nextLine();			
+		for (int i = 0; i < n; i++) {
+			sv[i] = sc.nextLine();
 		}
 		for (int i = 0; i < n; i++) {
 			System.out.println(sv[i]);
