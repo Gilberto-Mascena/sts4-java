@@ -14,6 +14,9 @@ public class ex04 {
 		}
 
 		System.out.println("Nomes digitados: ");
+		/*
+		 * for each para percorre um vetor.
+		 */
 		for (String s : nomes) {
 			System.out.println(s);
 		}
