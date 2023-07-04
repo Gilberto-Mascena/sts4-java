@@ -33,6 +33,5 @@ public class Program {
 			DB.closeStatement(st);
 			DB.closeConnetion();
 		}
-
 	}
 }
